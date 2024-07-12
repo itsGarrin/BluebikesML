@@ -14,8 +14,8 @@ def fetch_weather_data(lat: float, lon: float, start_time: str, end_time: str, a
         "lat": lat,
         "lon": lon,
         "type": "hour",
-        #"start": start_time,
-        #"end": end_time,
+        # "start": start_time,
+        # "end": end_time,
         "appid": api_key
     }
 
